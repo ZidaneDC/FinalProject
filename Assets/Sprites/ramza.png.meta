@@ -1,0 +1,2359 @@
+fileFormatVersion: 2
+guid: b482db02f06f4d34a8e76ecdfb156587
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7500373206861852838
+    second: ramza_0
+  - first:
+      213: 9182882159504856684
+    second: ramza_1
+  - first:
+      213: -509012760698562846
+    second: ramza_2
+  - first:
+      213: 1303599232170899531
+    second: ramza_3
+  - first:
+      213: -8395633657329232312
+    second: ramza_4
+  - first:
+      213: 7230090311700807355
+    second: ramza_5
+  - first:
+      213: -4804450033390629050
+    second: ramza_6
+  - first:
+      213: -5920382749726977297
+    second: ramza_7
+  - first:
+      213: -9103845184989811505
+    second: ramza_8
+  - first:
+      213: 3299107525625628269
+    second: ramza_9
+  - first:
+      213: -324245708657202360
+    second: ramza_10
+  - first:
+      213: -6953363139283966627
+    second: ramza_11
+  - first:
+      213: 4100658874175746458
+    second: ramza_12
+  - first:
+      213: 7826357895381359514
+    second: ramza_13
+  - first:
+      213: 5604241765568124913
+    second: ramza_14
+  - first:
+      213: -8039954936928618492
+    second: ramza_15
+  - first:
+      213: 7060745692445001623
+    second: ramza_16
+  - first:
+      213: 6022143560247941402
+    second: ramza_17
+  - first:
+      213: 4533535876968191479
+    second: ramza_18
+  - first:
+      213: -1495179092263492656
+    second: ramza_19
+  - first:
+      213: -7373833825534635293
+    second: ramza_20
+  - first:
+      213: 5575205356488776706
+    second: ramza_21
+  - first:
+      213: 5402794024908003674
+    second: ramza_22
+  - first:
+      213: 6256119172878901008
+    second: ramza_23
+  - first:
+      213: -8364673449407026613
+    second: ramza_24
+  - first:
+      213: -5523879383624007646
+    second: ramza_25
+  - first:
+      213: -2068419590045022115
+    second: ramza_26
+  - first:
+      213: -4942287854659743785
+    second: ramza_27
+  - first:
+      213: -3125294187874346424
+    second: ramza_28
+  - first:
+      213: 7269972542557142536
+    second: ramza_29
+  - first:
+      213: 491394858625797859
+    second: ramza_30
+  - first:
+      213: 224929748571067345
+    second: ramza_31
+  - first:
+      213: -3287768110866445280
+    second: ramza_32
+  - first:
+      213: -736692305470472623
+    second: ramza_33
+  - first:
+      213: 1945333879252035833
+    second: ramza_34
+  - first:
+      213: 4183360880665379894
+    second: ramza_35
+  - first:
+      213: -7143646545612618769
+    second: ramza_36
+  - first:
+      213: -2683749971788909283
+    second: ramza_37
+  - first:
+      213: 7775653004310263493
+    second: ramza_38
+  - first:
+      213: -7701026957799007924
+    second: ramza_39
+  - first:
+      213: -7740005467926323744
+    second: ramza_40
+  - first:
+      213: -3922101359590581372
+    second: ramza_41
+  - first:
+      213: 7846836187710012743
+    second: ramza_42
+  - first:
+      213: 1604439084065078657
+    second: ramza_43
+  - first:
+      213: -8188745734526492888
+    second: ramza_44
+  - first:
+      213: 1700894259958239825
+    second: ramza_45
+  - first:
+      213: 1896810611175276239
+    second: ramza_46
+  - first:
+      213: 5122238526248889915
+    second: ramza_47
+  - first:
+      213: 6529586841927554161
+    second: ramza_48
+  - first:
+      213: 3586524010890319098
+    second: ramza_49
+  - first:
+      213: -3901154072359183431
+    second: ramza_50
+  - first:
+      213: -1235240115445199113
+    second: ramza_51
+  - first:
+      213: -2018754281596825610
+    second: ramza_52
+  - first:
+      213: 2513804315002119798
+    second: ramza_53
+  - first:
+      213: -3049165244662176672
+    second: ramza_54
+  - first:
+      213: 6021340917764720005
+    second: ramza_55
+  - first:
+      213: -8287837156449421871
+    second: ramza_56
+  - first:
+      213: -7445939272205907335
+    second: ramza_57
+  - first:
+      213: -4827699257441143870
+    second: ramza_58
+  - first:
+      213: -6272682923924504098
+    second: ramza_59
+  - first:
+      213: -8384041976058780515
+    second: ramza_60
+  - first:
+      213: -1429621670276086834
+    second: ramza_61
+  - first:
+      213: 8865665525691446309
+    second: ramza_62
+  - first:
+      213: 7578620506591847113
+    second: ramza_63
+  - first:
+      213: -3194339364899484347
+    second: ramza_64
+  - first:
+      213: 2642179520815385586
+    second: ramza_65
+  - first:
+      213: -627271753259390706
+    second: ramza_66
+  - first:
+      213: -1680497445705931846
+    second: ramza_67
+  - first:
+      213: 2987882674232746699
+    second: ramza_68
+  - first:
+      213: 7505112910357018566
+    second: ramza_69
+  - first:
+      213: -3941061345946396327
+    second: ramza_70
+  - first:
+      213: -4159122704129014177
+    second: ramza_71
+  - first:
+      213: -8802972490671595844
+    second: ramza_72
+  - first:
+      213: -3739256869904438188
+    second: ramza_73
+  - first:
+      213: -1285595787118297566
+    second: ramza_74
+  - first:
+      213: -2591673961173420192
+    second: ramza_75
+  - first:
+      213: -4982651084232687142
+    second: ramza_76
+  - first:
+      213: 3658309491401218726
+    second: ramza_77
+  - first:
+      213: 9125497088692948278
+    second: ramza_78
+  - first:
+      213: -5805884771758034272
+    second: ramza_79
+  - first:
+      213: -3772483780773430958
+    second: ramza_80
+  - first:
+      213: -9155162999065822825
+    second: ramza_81
+  - first:
+      213: -8753148131752934260
+    second: ramza_82
+  - first:
+      213: 6540398779950871175
+    second: ramza_83
+  - first:
+      213: 6051596218994424662
+    second: ramza_84
+  - first:
+      213: 4555247102763134397
+    second: ramza_85
+  - first:
+      213: 6691398536066053885
+    second: ramza_86
+  - first:
+      213: 534651656561042686
+    second: ramza_87
+  - first:
+      213: 3318884011914998814
+    second: ramza_88
+  - first:
+      213: -6981407848137279032
+    second: ramza_89
+  - first:
+      213: -1665647785105202355
+    second: ramza_90
+  - first:
+      213: -2558126588894872767
+    second: ramza_91
+  - first:
+      213: -4511502981536242199
+    second: ramza_92
+  - first:
+      213: 2627301739865713398
+    second: ramza_93
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ramza_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 250
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0bbd561bda61860800000000000000
+      internalID: 7500373206861852838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 250
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c661f8bcba6207f70800000000000000
+      internalID: 9182882159504856684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 251
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6db6c479f9fe8f0800000000000000
+      internalID: -509012760698562846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 251
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b40b4890571210800000000000000
+      internalID: 1303599232170899531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 252
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d39eaba7bc7b80800000000000000
+      internalID: -8395633657329232312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 253
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7be2f4d0765460800000000000000
+      internalID: 7230090311700807355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 252
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f43a2562a235db0800000000000000
+      internalID: -4804450033390629050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 265
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe25c24b14396dda0800000000000000
+      internalID: -5920382749726977297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 250
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc288ad905a8a180800000000000000
+      internalID: -9103845184989811505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 210
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66cbbca0d8c8cd20800000000000000
+      internalID: 3299107525625628269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 210
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bea83fe3c008bf0800000000000000
+      internalID: -324245708657202360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 210
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552fa8b011b08f90800000000000000
+      internalID: -6953363139283966627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 213
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a917c44158778e830800000000000000
+      internalID: 4100658874175746458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 212
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b974f3a0fcc9c60800000000000000
+      internalID: 7826357895381359514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 211
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79818713446cd40800000000000000
+      internalID: 5604241765568124913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 211
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b83615975c6090800000000000000
+      internalID: -8039954936928618492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 233
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797cd8f3cceccf160800000000000000
+      internalID: 7060745692445001623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 217
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191cfe49a3f29350800000000000000
+      internalID: 6022143560247941402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 171
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59d234cda5aee30800000000000000
+      internalID: 4533535876968191479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.17351805, y: 0.9043335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32b02998e004be0800000000000000
+      internalID: -1495179092263492656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 195
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.7955031, y: 0.8940041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29f343431eaa990800000000000000
+      internalID: -7373833825534635293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 5
+        height: 11
+      alignment: 9
+      pivot: {x: 0.7167023, y: 0.86586136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5e57abbb1f5d40800000000000000
+      internalID: 5575205356488776706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 8
+        height: 13
+      alignment: 9
+      pivot: {x: 0.40325832, y: 0.9286417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a599e395a849afa40800000000000000
+      internalID: 5402794024908003674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.8289242, y: 0.86586136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f15fbcd3332d650800000000000000
+      internalID: 6256119172878901008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.14565168, y: 0.8011965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae3f1d0d5baeb80800000000000000
+      internalID: -8364673449407026613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 194
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.88584733, y: 0.83824295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ccf4a7fc3753b0800000000000000
+      internalID: -5523879383624007646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 194
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.15894127, y: 0.8720665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5848e0875f7b43e0800000000000000
+      internalID: -2068419590045022115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 195
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.8307258, y: 0.7931435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df474da167796bb0800000000000000
+      internalID: -4942287854659743785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 171
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.08723407, y: 0.87993276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a1821ae79b0a4d0800000000000000
+      internalID: -3125294187874346424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.23465075, y: 0.9286417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e36fd628124e460800000000000000
+      internalID: 7269972542557142536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 172
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.895568, y: 0.9256649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee08d83509c1d600800000000000000
+      internalID: 491394858625797859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 167
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5257988, y: 0.93119377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31ff22a6c1f1300800000000000000
+      internalID: 224929748571067345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 171
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.37100983, y: 0.94888306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc2ff82508f52d0800000000000000
+      internalID: -3287768110866445280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.8543483, y: 0.85434943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3ba7504eb6c5f0800000000000000
+      internalID: -736692305470472623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 170
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.15894127, y: 0.84726256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8a95a3bd63ffa10800000000000000
+      internalID: 1945333879252035833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 169
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.91340804, y: 0.8307266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634435b7e884e0a30800000000000000
+      internalID: 4183360880665379894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 170
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.16927761, y: 0.8607927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe340dfb05bacdc90800000000000000
+      internalID: -7143646545612618769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15be89ae9761cad0800000000000000
+      internalID: -2683749971788909283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: 0.9070686, y: 0.7609422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6bc92d53ba8eb60800000000000000
+      internalID: 7775653004310263493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.13468255, y: 0.8444427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49deae98c4702590800000000000000
+      internalID: -7701026957799007924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 148
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.8522708, y: 0.8327007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9ba4090af59490800000000000000
+      internalID: -7740005467926323744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 147
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.88539004, y: 0.8444427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd688f795e199c0800000000000000
+      internalID: -3922101359590581372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 9
+        height: 15
+      alignment: 9
+      pivot: {x: 0.86531746, y: 0.10336914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db22b30ff85ec60800000000000000
+      internalID: 7846836187710012743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11977168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18db375a8dc144610800000000000000
+      internalID: 1604439084065078657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 146
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.906662, y: 0.40441725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9d89e32bbb5e80800000000000000
+      internalID: -8188745734526492888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 146
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: 0.9301224, y: 0.27060106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152df45515aca9710800000000000000
+      internalID: 1700894259958239825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 145
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3b4d7333d25a10800000000000000
+      internalID: 1896810611175276239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea2e30dc8d51740800000000000000
+      internalID: 5122238526248889915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 122
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174182333a0cd9a50800000000000000
+      internalID: 6529586841927554161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 113
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d68fe594e5c130800000000000000
+      internalID: 3586524010890319098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 131
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb56f65a015cd9c0800000000000000
+      internalID: -3901154072359183431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 115
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe839ad8ab8bdee0800000000000000
+      internalID: -1235240115445199113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 117
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4f9c3da1fbf3e0800000000000000
+      internalID: -2018754281596825610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 108
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ab8ea4b3d2e220800000000000000
+      internalID: 2513804315002119798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 110
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a17a7d503fa5d0800000000000000
+      internalID: -3049165244662176672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58504ea89a9109350800000000000000
+      internalID: 6021340917764720005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d57c8d5400bbfc80800000000000000
+      internalID: -8287837156449421871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 97
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4905aea5baa890800000000000000
+      internalID: -7445939272205907335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3bdc58a11900db0800000000000000
+      internalID: -4827699257441143870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 92
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed142d26d14f2f8a0800000000000000
+      internalID: -6272682923924504098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d946d0b4e36e5ab80800000000000000
+      internalID: -8384041976058780515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34ef35aa6f82ce0800000000000000
+      internalID: -1429621670276086834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f344c2db290b70800000000000000
+      internalID: 8865665525691446309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e5ee823bac2960800000000000000
+      internalID: 7578620506591847113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 91
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8e1f954d6ba3d0800000000000000
+      internalID: -3194339364899484347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 87
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb430b7648eaa420800000000000000
+      internalID: 2642179520815385586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096651f9ab7b47f0800000000000000
+      internalID: -627271753259390706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab32fbe0a7cada8e0800000000000000
+      internalID: -1680497445705931846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ef243677177920800000000000000
+      internalID: 2987882674232746699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7370d9d64872860800000000000000
+      internalID: 7505112910357018566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 77
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95997d426998e49c0800000000000000
+      internalID: -3941061345946396327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c023cfe3d746c0800000000000000
+      internalID: -4159122704129014177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 60
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbedbfde82f85d580800000000000000
+      internalID: -8802972490671595844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c286130bd7b1cc0800000000000000
+      internalID: -3739256869904438188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e33186175a82ee0800000000000000
+      internalID: -1285595787118297566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 57
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f0aa7346880cd0800000000000000
+      internalID: -2591673961173420192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 42
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad18894fc311adab0800000000000000
+      internalID: -4982651084232687142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_77
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 42
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad861991de4c230800000000000000
+      internalID: 3658309491401218726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 62
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8762d04744ae70800000000000000
+      internalID: 9125497088692948278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2338c9f8a5d6fa0800000000000000
+      internalID: -5805884771758034272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b3162df175abc0800000000000000
+      internalID: -3772483780773430958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b1eb22c352f080800000000000000
+      internalID: -9155162999065822825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840e7c7622968680800000000000000
+      internalID: -8753148131752934260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782be50b90a24ca50800000000000000
+      internalID: 6540398779950871175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b724dc2b69bf350800000000000000
+      internalID: 6051596218994424662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde250fa1d773f30800000000000000
+      internalID: 4555247102763134397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df639c8148f9cdc50800000000000000
+      internalID: 6691398536066053885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef425e359d67b6700800000000000000
+      internalID: 534651656561042686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 27
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14bae4bc6b0f0e20800000000000000
+      internalID: 3318884011914998814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_89
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c937ab1d8e0d1f90800000000000000
+      internalID: -6981407848137279032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4363e71a2e62e8e0800000000000000
+      internalID: -1665647785105202355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_91
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7072cb65bf7cd0800000000000000
+      internalID: -2558126588894872767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5aa66f0fbe361c0800000000000000
+      internalID: -4511502981536242199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramza_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa267a230d067420800000000000000
+      internalID: 2627301739865713398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
