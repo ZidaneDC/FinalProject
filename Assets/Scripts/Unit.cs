@@ -7,6 +7,7 @@ public class Unit : MonoBehaviour
     public bool selected;
     GameMaster gm;
 
+    //variables determining movement
     public int tileSpeed; //determines how many tiles the character can move on
     public bool hasMoved; //tracks if the unit has moved this turn or not
 
@@ -14,19 +15,28 @@ public class Unit : MonoBehaviour
 
     public int playerNumber; //indicates what side a unit belongs to
 
+    //attack range variables
     public int attackRange; //dictates how many tiles of distance you can attack an enemy from
     List<Unit> enemiesInRange = new List<Unit>(); //stores all the enemies a unit can attack
     public bool hasAttacked; //units only attack once per turn
 
     public GameObject weaponIcon; //creates sprite that will mark attackable units
 
+    //attack damage variables
     public int health;
     public int attackDamage;
     public int defenseDamage; //how much damage is inflicted on a unit attempting to attack
     public int armor; //how much damage a defending unit can absorb
+
+    public DamageIcon damageIcon;
+    public GameObject deathEffect;
+
+    private Animator camAnim;
+
     void Start()
     {
         gm = FindObjectOfType<GameMaster>(); //gives access to any public variables and functions in the game master script
+        camAnim = Camera.main.GetComponent<Animator>();
     }
 
    
@@ -78,29 +88,38 @@ public class Unit : MonoBehaviour
 
     void Attack(Unit enemy) //attack function, takes in enemy as an argument
     {
+        camAnim.SetTrigger("shake");
+
         hasAttacked = true;
         int enemyDamage = attackDamage - enemy.armor; //stores the amount of damage that you should do to an enemy, equal to your attacks strength minus the enemy armor stat
         int myDamage = enemy.defenseDamage - armor;//stores how much damage a defending unit should inflict on the attacking unit
 
         if(enemyDamage >= 1)
         {
+            DamageIcon instance = Instantiate(damageIcon, enemy.transform.position, Quaternion.identity); //create a damage icon at the enemies position, no rotation
+            //variable is used so a specific amount of damage can be displayed
+            instance.Setup(enemyDamage);
             enemy.health -= enemyDamage; //if the attack value after the armor stat is subtracted is at least, do that amount of damage to the enemy
         }
 
         if(myDamage >= 1)
         {
+            DamageIcon instance = Instantiate(damageIcon, transform.position, Quaternion.identity);
+            instance.Setup(myDamage);
             health -= myDamage;
         }
 
         //now check if either unit is dead
         if(enemy.health <= 0)
         {
+            Instantiate(deathEffect, enemy.transform.position, Quaternion.identity);
             Destroy(enemy.gameObject);
             GetWalkableTiles(); //destory that enemy, you can now move on the place where the enemy was killed
         }
 
         if(health <= 0)
         {
+            Instantiate(deathEffect, transform.position, Quaternion.identity);
             gm.ResetTiles(); //reset tiles if the unit is dead
             Destroy(this.gameObject);
         }
