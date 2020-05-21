@@ -15,9 +15,12 @@ public class Tile : MonoBehaviour
     public bool isWalkable;
     GameMaster gm;
 
+    public Color creatableColor; //indicates what tiles a new unit can be placed on
+    public bool isCreatable;
+
     private void Start()
     {
-        //i havent added the specific sprites I want to use as tiles to the tile prefab in the Unity editor yet, there are just dots as placeholders for clarity rn 
+        //select a random tile to display from the array of chosen tiles for each tile in the scene
         rend = GetComponent<SpriteRenderer>();
         int randTile = Random.Range(0, tileGraphics.Length);
         rend.sprite = tileGraphics[randTile];
@@ -58,6 +61,13 @@ public class Tile : MonoBehaviour
     {
         rend.color = Color.white;
         isWalkable = false;
+        isCreatable = false;
+    }
+
+    public void SetCreatable()
+    {
+        rend.color = creatableColor;
+        isCreatable = true;
     }
 
     private void OnMouseDown()
@@ -65,6 +75,18 @@ public class Tile : MonoBehaviour
         if(isWalkable == true && gm.selectedUnit != null) //if the tile is walkable and a unit is selected
         {
             gm.selectedUnit.Move(this.transform.position);
+        }
+
+        else if(isCreatable == true)
+        {
+            BarrackItem item = Instantiate(gm.purchasedItem, new Vector2(transform.position.x, transform.position.y), Quaternion.identity);
+            gm.ResetTiles(); //instantiate the chosen unit type and reset tiles
+            Unit unit = item.GetComponent<Unit>();
+            if (unit != null) //if a unit was purchased, not a chest, make sure it is unable to move that same turn
+            {
+                unit.hasMoved = true;
+                unit.hasAttacked = true;
+            }
         }
     }
 }

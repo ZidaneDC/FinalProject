@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CursorFollow : MonoBehaviour
 {
@@ -11,7 +9,6 @@ public class CursorFollow : MonoBehaviour
     private void Update()
     {
         //have cursor follow mouse
-        Vector2 cursorPos = Camera.main.ScreenToWorldPoint(Input.mousePosition); //variable is now equal to whatever the mouse position in the scene is
-        transform.position = cursorPos; //object will now follow the mouse
+        transform.position = Input.mousePosition;
     }
 }

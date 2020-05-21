@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6971366281477885725}
   - component: {fileID: 2873132198215069929}
   - component: {fileID: 316465798499696831}
+  - component: {fileID: 1884134204680013802}
   m_Layer: 8
   m_Name: enemy unit_1
   m_TagString: Untagged
@@ -140,6 +141,8 @@ MonoBehaviour:
     type: 3}
   deathEffect: {fileID: 6147278168990866559, guid: 708fdb768165c884caec9d61b967a0c6,
     type: 3}
+  leaderHealth: {fileID: 0}
+  isLeader: 0
 --- !u!114 &316465798499696831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -153,6 +156,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverAmount: 0.5
+--- !u!114 &1884134204680013802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6289132147662629484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6635777a081e0ea4d808759ecd2eb9a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cost: 70
 --- !u!1001 &7069538628660248124
 PrefabInstance:
   m_ObjectHideFlags: 0

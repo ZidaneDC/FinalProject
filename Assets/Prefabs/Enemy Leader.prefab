@@ -139,6 +139,9 @@ MonoBehaviour:
     type: 3}
   deathEffect: {fileID: 6147278168990866559, guid: 708fdb768165c884caec9d61b967a0c6,
     type: 3}
+  leaderHealth: {fileID: 0}
+  isLeader: 1
+  victoryPanel: {fileID: 0}
 --- !u!114 &477157042109678905
 MonoBehaviour:
   m_ObjectHideFlags: 0

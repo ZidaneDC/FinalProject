@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2016885185781168845}
   - component: {fileID: 6673565344206112057}
   - component: {fileID: 9162117307814212975}
+  - component: {fileID: -7915341925120994669}
   m_Layer: 8
   m_Name: Enemy Chocobo
   m_TagString: Untagged
@@ -139,6 +140,8 @@ MonoBehaviour:
     type: 3}
   deathEffect: {fileID: 6147278168990866559, guid: 708fdb768165c884caec9d61b967a0c6,
     type: 3}
+  leaderHealth: {fileID: 0}
+  isLeader: 0
 --- !u!114 &9162117307814212975
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -152,6 +155,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverAmount: 0.5
+--- !u!114 &-7915341925120994669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3172032275872243644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6635777a081e0ea4d808759ecd2eb9a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cost: 60
 --- !u!1001 &1827939441384737772
 PrefabInstance:
   m_ObjectHideFlags: 0

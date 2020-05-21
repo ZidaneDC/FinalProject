@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Unit : MonoBehaviour
 {
@@ -33,13 +34,34 @@ public class Unit : MonoBehaviour
 
     private Animator camAnim;
 
+    public Text leaderHealth;
+    public bool isLeader; //variables that track team leader's health and whether a unit is a leader or not
+
+    public GameObject victoryPanel; //stores win banner
+
     void Start()
     {
         gm = FindObjectOfType<GameMaster>(); //gives access to any public variables and functions in the game master script
         camAnim = Camera.main.GetComponent<Animator>();
+        UpdateLeaderHealth(); //do it at start in case i want to change the leader's health at some point, and the ui will update accordlingly
     }
 
-   
+    public void UpdateLeaderHealth()
+    {
+        if (isLeader == true) //if unit is a team leader
+        {
+            leaderHealth.text = health.ToString(); //use units health as the leaders health, ensure to convert int to string
+        }
+    }
+
+    private void OnMouseOver()//if mouse is over a unit
+    {
+        if (Input.GetMouseButtonDown(1)) //the one in this means a right click on a mouse
+        {
+            gm.ToggleStatsPanel(this);
+        }
+    }
+
     void Update()
     {
         
@@ -100,29 +122,64 @@ public class Unit : MonoBehaviour
             //variable is used so a specific amount of damage can be displayed
             instance.Setup(enemyDamage);
             enemy.health -= enemyDamage; //if the attack value after the armor stat is subtracted is at least, do that amount of damage to the enemy
+            enemy.UpdateLeaderHealth();
         }
 
-        if(myDamage >= 1)
+        if (transform.tag == "Ranged Fighter" && enemy.tag != "Ranged Fighter") //if a mage attacks a non mage enemy
         {
-            DamageIcon instance = Instantiate(damageIcon, transform.position, Quaternion.identity);
-            instance.Setup(myDamage);
-            health -= myDamage;
+            if(Mathf.Abs(transform.position.x - enemy.transform.position.x) + Mathf.Abs(transform.position.y - enemy.transform.position.y) <= 1) //if the two are fighting at close range, then do damage like normal
+            {
+                if (myDamage >= 1)
+                {
+                    DamageIcon instance = Instantiate(damageIcon, transform.position, Quaternion.identity);
+                    instance.Setup(myDamage);
+                    health -= myDamage;
+                    UpdateLeaderHealth();
+                }
+            }
         }
+        else //if the attack is not a melee vs a mage
+        {
+            if (myDamage >= 1)
+            {
+                DamageIcon instance = Instantiate(damageIcon, transform.position, Quaternion.identity);
+                instance.Setup(myDamage);
+                health -= myDamage;
+                UpdateLeaderHealth();
+            }
+        }
+
+      
 
         //now check if either unit is dead
         if(enemy.health <= 0)
         {
+            if (isLeader == true) //for some reason this if statement and the matching one in line 172 do not seem to work despite not throwing errors and being coded the same way
+                //as the rest of my ui, the death of the leader units was supposed to determine the win/lose state and display the restart button, 
+                //however since I cant seem to fix this or even figure out whats causing the problem, the restart button will always be visible
+            {
+                enemy.victoryPanel.SetActive(true);
+            }
             Instantiate(deathEffect, enemy.transform.position, Quaternion.identity);
             Destroy(enemy.gameObject);
+            gm.RemoveStatsPanel(enemy);
             GetWalkableTiles(); //destory that enemy, you can now move on the place where the enemy was killed
         }
 
         if(health <= 0)
         {
+            //check if unit is the team Leader
+            if (isLeader == true)
+            {
+                victoryPanel.SetActive(true);
+            }
             Instantiate(deathEffect, transform.position, Quaternion.identity);
             gm.ResetTiles(); //reset tiles if the unit is dead
+            gm.RemoveStatsPanel(this);
             Destroy(this.gameObject);
         }
+
+        gm.UpdateStatsPanel();
     }
 
     void GetWalkableTiles()
@@ -195,5 +252,6 @@ public class Unit : MonoBehaviour
         hasMoved = true; //mark the unit as having taken a turn
         ResetWeaponIcons(); //reset happens bcus which enemies are attackable needs to be reevaluated after moving
         GetEnemies(); //mark enemies that can be attacked after moving
+        gm.MoveStatsPanel(this); //move stats panel
     }
 }
